@@ -2,42 +2,48 @@
 
 Welcome to my personal portfolio website! This project is part of the **Feb 2025 Cohort Hackathon 1: Portfolio Challenge** at PLP Academy. The website showcases my skills, background, and achievements in a clean, functional, and visually appealing way.
 
-## Project Overview
+## 🚀 Project Overview
 
 This portfolio website includes:
 
 - **Programming Languages:**  
-  A list of programming languages and technologies I'm proficient in.
+  Python, HTML, some C++, and MySQL for database-related tasks.
 
 - **About Me:**  
-  A brief introduction where I share my passion for technology and what drives me forward.
+  I’m George Chelal Chementer, a 23-year-old Kenyan and current student at the University of Nairobi, pursuing a degree in Electrical Engineering. My passion for tech started early and continues to grow as I learn more. I love exploring how software and hardware can work together to solve real-world problems.
 
 - **Educational Background:**  
-  Details about my education from primary school through my current studies at the University of Nairobi.  
-  [Download My CV](cv.pdf)
+  I studied at Carmelvale Catholic Primary School (2008–2015), then Sunshine Secondary School (2016–2019), and now at the University of Nairobi (BSc. Electrical Engineering).  
+  📄 [Download My CV](cv.pdf)
 
 - **Interests:**  
-  An overview of what excites me about technology, including my passion for app development and electronics.
+  I’m deeply interested in app development and how it can be integrated with electronics. My goal is to build smart systems that connect the physical world with intuitive digital interfaces.
 
 - **Projects:**
 
-- [💻 Portfolio Website – Hackathon Project](https://github.com/JojChelal/portfolio)
+  - [💻 Portfolio Website – Hackathon Project](https://github.com/JojChelal/portfolio)  
+    A fully responsive personal portfolio website built using HTML and CSS.
 
 - **Contact Form:**  
-  A simple form that enables collaborators or employers to reach out to me directly.
+  A simple form that enables collaborators or employers to reach out to me directly from the website.
 
-## Guidelines Followed
+## 📄 Guidelines Followed
 
 - **Skills:**  
-  The portfolio is built using HTML and CSS. I focused on clean code, a responsive design with a fixed background, and an easy-to-navigate layout.
+  The portfolio was built using HTML and CSS. I focused on semantic structure, responsiveness, fixed background styling, and user-friendly navigation.
 
 - **Individual Work:**  
-  This is my personal project showcasing my creativity and technical skills.
+  This is my personal creation — designed, written, and coded from scratch.
 
 - **Reference Material:**  
-  I used PLP Academy's guidelines along with online resources (MDN, W3Schools) to craft this portfolio.
+  I used PLP Academy’s challenge instructions and online documentation like MDN and W3Schools.
 
-## How to Run the Project
+## 🌍 Live Demo
+
+View the portfolio here:  
+🔗 [https://jojchelal.github.io/portfolio](https://jojchelal.github.io/portfolio)
+
+## 📥 How to Run the Project
 
 1. **Clone the Repository:**
    ```bash
