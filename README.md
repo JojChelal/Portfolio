@@ -19,8 +19,9 @@ This portfolio website includes:
 - **Interests:**  
   An overview of what excites me about technology, including my passion for app development and electronics.
 
-- **Projects:**  
-  A section that will eventually include links to my projects along with brief descriptions.
+- **Projects:**
+
+- [💻 Portfolio Website – Hackathon Project](https://github.com/JojChelal/portfolio)
 
 - **Contact Form:**  
   A simple form that enables collaborators or employers to reach out to me directly.
@@ -38,7 +39,7 @@ This portfolio website includes:
 
 ## How to Run the Project
 
-1. **Clone the Repository:**  
+1. **Clone the Repository:**
    ```bash
    git clone https://github.com/JojChelal/portfolio.git
-
+   ```

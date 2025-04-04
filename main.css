@@ -116,3 +116,22 @@ footer {
   #overview {
     padding: 100px 20px;
   }
+
+  #projects ul {
+    margin-top: 10px;
+  }
+  
+  #projects ul li {
+    margin-bottom: 10px;
+  }
+  
+  #projects ul li a {
+    color: rgb(7, 110, 110);
+    text-decoration: underline;
+    font-weight: bold;
+  }
+  
+  #projects ul li a:hover {
+    color: limegreen;
+  }
+   
