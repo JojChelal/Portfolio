@@ -41,7 +41,7 @@ This portfolio website includes:
 ## 🌍 Live Demo
 
 View the portfolio here:  
-🔗 [https://jojchelal.github.io/portfolio](https://jojchelal.github.io/portfolio)
+🔗 [https://jojchelal.github.io/Portfolio](https://jojchelal.github.io/Portfolio)
 
 ## 📥 How to Run the Project
 
